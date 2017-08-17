@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Character,com.Character,SwaggerConfig,0,15,0,0,0,6,0,2,0,2
+Character,com.Character,CharacterController,0,37,0,0,0,9,0,5,0,5
+Character,com.Character,Character,0,17,0,0,0,8,0,5,0,5
+Character,com.Character,CharacterApplication,5,22,0,0,2,4,1,2,1,2
